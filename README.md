@@ -1,12 +1,16 @@
-# Web Intelligence Scraper
-A collection of Python scripts designed to extract large-scale data from e-commerce and financial websites.
+# 🛒 E-Commerce & Market Data Scraper
+**Professional Web Scraping & API Extraction Scripts**
 
-## Technologies
-- Selenium / BeautifulSoup
-- Multi-threading for speed
-- Data cleaning with Pandas
+این مخزن شامل اسکریپت‌های بهینه پایتون برای استخراج خودکار داده‌ها از سایت‌های فروشگاهی و بازارهای مالی است. 
 
-## Potential Use Cases
-- Competitor price tracking
-- Real-estate data aggregation
-- Lead generation for businesses
+## 🚀 ویژگی‌های این پروژه (Features):
+- **API Extraction:** استخراج داده‌های JSON در کسری از ثانیه (`api_scraper.py`).
+- **Anti-Bot Bypass:** استفاده از هدرهای سفارشی برای دور زدن محدودیت سایت‌ها.
+- **Excel Automation:** تبدیل خودکار داده‌های خام به فایل‌های ساختاریافته اکسل (با `pandas` و `openpyxl`).
+
+## 💼 کاربرد برای کارفرمایان (Use Cases):
+- جمع‌آوری قیمت لحظه‌ای رقبا از سایت‌های فروشگاهی.
+- ساخت دیتابیس محصولات برای فروشگاه‌های ووکامرس/وردپرس.
+- دریافت گزارشات منظم اکسل بدون نیاز به نیروی انسانی (Data Entry Automation).
+
+*Developed by Soheyl Falahzade - AI & Python Developer*
